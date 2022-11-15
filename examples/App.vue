@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <local-stroage-notice ws="192.168.2.118"></local-stroage-notice>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
